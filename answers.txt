@@ -1,0 +1,1 @@
+2. A remote repository is a base of code that is held somewhere other than a programmers personal computer. This is used often to have a central "truth" of a codebase which developers can clone locally to add new features, and push their code back up to the remote repository for other developers to build off of once they are done. 
